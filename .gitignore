@@ -1,0 +1,13 @@
+.DS_Store
+*.class
+*.jar
+*.iml
+.gradle/
+.idea/
+target/
+build/
+out/
+*/build/
+*/.gradle/
+local.properties
+.gradletasknamecache
